@@ -1,0 +1,4 @@
+type,severity,ip,detail
+BRUTE_FORCE,HIGH,185.220.101.47,10 failed logins within 5 min (window ending Jul 24 02:14:31)
+OFF_HOURS_LOGIN,MEDIUM,10.0.0.8,Successful login for 'backup' at Jul 22 03:59:00 (outside 7:00-21:00)
+OFF_HOURS_LOGIN,MEDIUM,10.0.0.8,Successful login for 'backup' at Jul 25 03:36:00 (outside 7:00-21:00)
